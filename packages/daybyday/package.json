@@ -1,0 +1,12 @@
+{
+  "name": "@xxs/daybyday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cosec": "echo hello"
+  },
+  "dependencies": {
+    "gpnote": "^0.0.0"
+  }
+}
