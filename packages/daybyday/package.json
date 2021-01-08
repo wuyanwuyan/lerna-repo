@@ -7,6 +7,6 @@
     "cosec": "echo hello"
   },
   "dependencies": {
-    "gpnote": "^0.0.0"
+    "@xxs/gpnote": "^0.0.0"
   }
 }
