@@ -10,3 +10,5 @@ function test4() {
 let fun = require('@xxs/daybyday')
 
 fun()
+
+console.log(' test 44 ')
