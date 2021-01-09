@@ -7,7 +7,7 @@ function test4() {
 }
 
 
-let fun = require('@xxs/daybyday')
+let fun = require('@xxsxxsxxs/daybyday')
 
 fun()
 

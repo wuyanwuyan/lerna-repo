@@ -1,8 +1,8 @@
 {
-  "name": "@xxs/test4",
-  "version": "1.0.7",
+  "name": "@xxsxxsxxs/test4",
+  "version": "1.0.8",
   "description": "> TODO: description",
-  "author": "xxs <xxsinxmu@gmail.com>",
+  "author": "xxsxxsxxs <xxsxxsxxsinxmu@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/test4.js",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xxs/daybyday": "^1.0.7"
+    "@xxsxxsxxs/daybyday": "^1.0.8"
   },
-  "gitHead": "a67449d89f74a872e8380baf713d8375e0c4b275"
+  "gitHead": "de26ca5dcea028a5b93cae27d0e75af754f123be"
 }

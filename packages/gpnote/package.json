@@ -1,6 +1,6 @@
 {
-  "name": "@xxs/gpnote",
-  "version": "1.0.4",
+  "name": "@xxsxxsxxs/gpnote",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "xuxiangsheng <xuxiangsheng@cecdat.com>",
   "homepage": "",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a67449d89f74a872e8380baf713d8375e0c4b275",
+  "gitHead": "de26ca5dcea028a5b93cae27d0e75af754f123be",
   "publishConfig": {
     "access": "public"
   }

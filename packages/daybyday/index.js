@@ -1,4 +1,4 @@
-const gp = require('@xxs/gpnote')
+const gp = require('@xxsxxsxxs/gpnote')
 
 
 gp()
