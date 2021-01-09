@@ -1,15 +1,15 @@
 {
   "name": "@xxsxxsxxs/daybyday",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "cosec": "echo hello"
   },
   "dependencies": {
-    "@xxsxxsxxs/gpnote": "^1.0.5"
+    "@xxsxxsxxs/gpnote": "^1.0.8"
   },
-  "gitHead": "de26ca5dcea028a5b93cae27d0e75af754f123be",
+  "gitHead": "0f97f92f3f1923dce6b552226140d17a9ff53525",
   "publishConfig": {
     "access": "public"
   }

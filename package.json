@@ -6,11 +6,9 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": "https://github.com/wuyanwuyan/lerna-repo.git",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
