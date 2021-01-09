@@ -1,7 +1,8 @@
 {
   "name": "root",
   "scripts": {
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "publish_no_push": "lerna publish --no-push"
   },
   "devDependencies": {
     "lerna": "^3.22.1"

@@ -11,4 +11,4 @@ let fun = require('@xxsxxsxxs/daybyday')
 
 fun()
 
-console.log(' test 7878777777800078 44 ')
+console.log(' test 7878777777ddd800078 44 ')

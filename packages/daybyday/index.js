@@ -5,5 +5,5 @@ gp()
 
 
 module.exports = function () {
-    console.log(' daybbbbb  day')
+    console.log(' daybbbbb  dd day')
 }
