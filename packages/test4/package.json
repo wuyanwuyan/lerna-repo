@@ -1,6 +1,6 @@
 {
   "name": "@xxsxxsxxs/test4",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "> TODO: description",
   "author": "xxsxxsxxs <xxsxxsxxsinxmu@gmail.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "@xxsxxsxxs/daybyday": "^1.0.13"
   },
-  "gitHead": "b28139e789fa93beddaec7beef717205ed1747b1"
+  "gitHead": "8d92eec1b26517c5d13b93d50c6f31ef278e39a9"
 }
