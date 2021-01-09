@@ -1,6 +1,6 @@
 {
   "name": "@xxs/test4",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "xxs <xxsinxmu@gmail.com>",
   "homepage": "",
@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xxs/daybyday": "^1.0.5"
-  }
+    "@xxs/daybyday": "^1.0.7"
+  },
+  "gitHead": "a67449d89f74a872e8380baf713d8375e0c4b275"
 }
