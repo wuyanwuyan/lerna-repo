@@ -19,5 +19,8 @@
   "gitHead": "7ba16ff416e1b4805265a206672638a225bd0926",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "rollup": "^2.37.1"
   }
 }

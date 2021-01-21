@@ -20,7 +20,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xxsxxsxxs/daybyday": "^1.0.14"
+    "@xxsxxsxxs/daybyday": "^1.0.14",
+    "rollup": "^2.37.1"
   },
   "gitHead": "8d92eec1b26517c5d13b93d50c6f31ef278e39a9"
 }
